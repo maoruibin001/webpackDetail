@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-transform:rotate(7deg);
+        transform:rotate(7deg);
+    -ms-transform: translate(50px, 60px);
+        transform: translate(50px, 60px);
+}
